@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  post-render:
+    - python3 add_post_nav.py
 
 website:
   title: "Francesco Turci"
@@ -18,5 +20,4 @@ format:
   html:
     theme: journal
     css: styles.css
-    include-after-body: post-nav.html
     toc: false
