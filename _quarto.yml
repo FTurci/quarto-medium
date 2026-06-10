@@ -5,7 +5,11 @@ project:
 website:
   title: "Francesco Turci"
   site-url: "https://fturci.github.io/quarto-medium/"
+  page-navigation: true
   navbar:
+    background: "#f6f1e8"
+    foreground: "#4f4033"
+    pinned: true
     left:
       - href: index.qmd
         text: Blog
@@ -14,4 +18,5 @@ format:
   html:
     theme: journal
     css: styles.css
+    include-after-body: post-nav.html
     toc: false

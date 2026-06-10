@@ -1,5 +1,122 @@
 body {
+  background: #fcfaf6;
+  color: #2f2923;
   font-size: 1.125rem;
+  line-height: 1.7;
+}
+
+.navbar {
+  box-shadow: 0 1px 0 rgba(79, 64, 51, 0.08);
+}
+
+.navbar-title,
+.menu-text,
+.nav-link {
+  letter-spacing: 0.01em;
+}
+
+#quarto-document-content {
+  max-width: 42rem;
+}
+
+.quarto-title-block .title {
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+.quarto-title-block .title,
+.listing-title {
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", "Georgia", serif;
+}
+
+.listing-title a,
+.quarto-title a {
+  color: #3f3127;
+  text-decoration: none;
+}
+
+.listing-title a:hover,
+.listing-title a:focus {
+  color: #7a5a43;
+}
+
+.quarto-listing .quarto-post {
+  border-bottom: 1px solid rgba(79, 64, 51, 0.12);
+  padding-bottom: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.listing-date,
+.quarto-title-meta-contents {
+  color: #7a6a5c;
+}
+
+.pagination-link,
+.page-link {
+  color: #6b513e;
+}
+
+.pagination-link:hover,
+.page-link:hover {
+  color: #3f3127;
+}
+
+.post-nav {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(79, 64, 51, 0.14);
+}
+
+.post-nav-link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  min-height: 100%;
+  padding: 1rem 1.1rem;
+  border: 1px solid rgba(79, 64, 51, 0.12);
+  border-radius: 0.9rem;
+  background: rgba(255, 255, 255, 0.72);
+  color: #3f3127;
+  text-decoration: none;
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.post-nav-link:hover,
+.post-nav-link:focus {
+  color: #3f3127;
+  border-color: rgba(122, 90, 67, 0.35);
+  box-shadow: 0 10px 24px rgba(79, 64, 51, 0.08);
+  transform: translateY(-1px);
+}
+
+.post-nav-older {
+  text-align: right;
+}
+
+.post-nav-meta {
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #8a7667;
+}
+
+.post-nav-title {
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", "Georgia", serif;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+@media (max-width: 768px) {
+  .post-nav {
+    grid-template-columns: 1fr;
+  }
+
+  .post-nav-older {
+    text-align: left;
+  }
 }
 
 #title-block-header.quarto-title-block .quarto-title .subtitle {
