@@ -1,0 +1,10 @@
+---
+title: "Come luceva il canto fra le foglie\ncosì spirava"
+draft: true
+author: "Francesco Turci"
+format: html
+---
+###   {#4b7b .graf .graf--h3 .graf--empty .graf--leading .graf--title name="4b7b"}
+
+Come luceva il canto fra le foglie\
+così spirava

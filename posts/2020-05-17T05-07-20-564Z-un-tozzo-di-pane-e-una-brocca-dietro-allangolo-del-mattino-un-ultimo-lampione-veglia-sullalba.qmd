@@ -1,0 +1,16 @@
+---
+title: "Un tozzo di pane\ne una brocca: dietro,\nall’angolo del mattino\nun ultimo lampione veglia sull’alba…"
+subtitle: "immoto me."
+date: "2020-05-17T05:07:20.564Z"
+author: "Francesco Turci"
+medium-url: "https://medium.com/@francesco_turci/un-tozzo-di-pane-e-una-brocca-dietro-allangolo-del-mattino-un-ultimo-lampione-veglia-sull-alba-fc121f0503ec"
+format: html
+---
+Un tozzo di pane\
+e una brocca: dietro,\
+all'angolo del mattino\
+un ultimo lampione veglia sull'alba\
+ed io scruto di nascosto\
+il riflesso d'Oriente
+
+immoto me.

@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Francesco Turci"
+  site-url: "https://fturci.github.io/quarto-medium/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Blog
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: false

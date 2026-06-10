@@ -1,0 +1,13 @@
+---
+title: "Frammenti"
+listing:
+  contents: posts/*.qmd
+  sort: "date desc"
+  type: default
+  fields: [title, date]
+  sort-ui: false
+  filter-ui: false
+  categories: false
+  date-format: "YYYY-MM-DD HH:mm"
+page-layout: full
+---
