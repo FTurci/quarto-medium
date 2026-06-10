@@ -1,0 +1,11 @@
+body {
+  font-size: 1.125rem;
+}
+
+#title-block-header.quarto-title-block .quarto-title .subtitle {
+  display: none;
+}
+
+#title-block-header.quarto-title-block .quarto-title-meta > div:first-child {
+  display: none;
+}
