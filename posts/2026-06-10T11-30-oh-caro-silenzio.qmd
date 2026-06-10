@@ -5,22 +5,22 @@ author: "Francesco Turci"
 format: html
 ---
 
-Oh caro silezio!
-E temuto e caro,
-come la fronda assente
-del pruno torto - amato
-ad ogni lascito del cielo
-sorpreso
-nelle rugiada dolce di giugno
-e di un segreto innocente.
+Oh caro silezio!\
+E temuto e caro,\
+come la fronda assente\
+del pruno torto - amato\
+ad ogni lascito del cielo\
+sorpreso\
+nelle rugiada dolce di giugno\
+e di un segreto innocente.\
 
-E ti penso
-ad ogni istante
-or ch'accompagni la sua onda
-nei giorni mai domata,
-le notti mai spenta;
-e le sospiri un sogno
-e le riporti un seme
-e forse di me suggerirai
-un ricordo dolce
-innocente.
+E ti penso\
+ad ogni istante\
+or ch'accompagni la sua onda\
+nei giorni mai domata,\
+le notti mai spenta;\
+e le sospiri un sogno\
+e le riporti un seme\
+e forse di me suggerirai\
+un ricordo dolce\
+innocente.\
