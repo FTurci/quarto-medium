@@ -14,5 +14,6 @@
         "tab.activeBorder": "#e2b673",
         "iLoveWorkSpaceColors": true,
         "iLoveWorkSpaceRandom": false
-    }
+    },
+    "markdown.validate.enabled": false
 }
